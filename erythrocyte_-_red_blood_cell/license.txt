@@ -1,0 +1,11 @@
+Model Information:
+* title:	Erythrocyte - red blood cell
+* source:	https://sketchfab.com/3d-models/erythrocyte-red-blood-cell-5a9ccefc7b7749b1ba33043243e3ddee
+* author:	axonology (https://sketchfab.com/axonology)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Erythrocyte - red blood cell" (https://sketchfab.com/3d-models/erythrocyte-red-blood-cell-5a9ccefc7b7749b1ba33043243e3ddee) by axonology (https://sketchfab.com/axonology) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
